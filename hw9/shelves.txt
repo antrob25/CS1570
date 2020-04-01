@@ -1,0 +1,7 @@
+milk
+cereal
+granola
+bacon
+pancakes
+waffles
+syrup

@@ -1,0 +1,56 @@
+//  Programmer:  Anthony Robles                    Date: 01/29/19
+//  File:  hw1.txt                                Class: cs1570 section b
+//  Purpose: Algorithms to replace a flat tire, convert decimal to binary
+    and add two fractions together.
+
+//  algorithm #1 How to change a flat tire
+
+  1. Turn on hazard lights and pullover somewhere away from the lanes of the
+     road.
+  2. Turn on your emergency brake.
+  3. Find a jack, lug-wrench and spare tire in your trunk. If you do not
+     have anyone of these items then ask someone around for these items.
+  4. Place the jack under the car near the flat tire.
+  5. Hook the jack to the metal frame of the car near the flat tire.
+  6. Use the jack to raise the tire off the ground.
+  7. Use lug-wrench to remove lug nut from tire by turning them
+     counter-clockwise.
+  8. Repeat step 7 until all lug nuts are removed from tire.
+  9. Remove the tire from the car.
+ 10. Place the spare tire where the flat tire was originally placed.
+ 11. Use the lug-wrench to tighhten the lug nuts to the spare tire by
+     turning the wrench clockwise until snug.
+ 12. Repeat step 11 until all the nuts are tightened properly
+ 13. Using the jack, lower the car to be flat with the ground.
+ 14. Place the flat tire in your trunk.
+ 15. Place the tools used in your trunk. If you borrowed the tools then
+     return the tools to the owner.
+ 16. Turn off you emergency brake.
+ 17. Turn off your hazard lights and begin to drive to class.
+
+// algorithm #2 How to convert decimal to binary
+
+  1. Divide the decimal number by 2.
+  2. Record the quotient and the remainder of the decimal number.
+  3. Divide the quotient by 2. 
+  4. Record the quotient and the remainder.
+  5. Repeat steps 3 and 4 until quotient is 0.
+  6. Once the quotient is 0, arrange the remainders from the last remainder
+     to the first remainder.
+  7. The arranged remainders from step 6 will produce the binary number for
+     the decimal number.
+
+// algorithm #3 How to add two fractions together
+
+  1. Check the bottom number of the two fraction. The bottom number is
+     called the denominator.
+  2. If the two denominators are equal then skip to step 5. If the two
+     denominators are not equal then go to step 3.
+  3. In order make the denominators equal, find a number that can be divided
+     by both of the denominators. The number is called the greatest common
+     denominator.
+  4. Once the greatest common denominator is found, replace the two original
+     denominators with the greatest common denominator.
+  5. Add the top two numbers of the two fractions.
+  6. The sum of the top two numbers divided by the greatest common
+     denominator gives the sum of the two fractions. 
